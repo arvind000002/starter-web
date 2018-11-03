@@ -1,3 +1,4 @@
 textFile.txt
 *.log
 access.log
+error.log
