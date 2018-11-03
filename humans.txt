@@ -3,12 +3,16 @@
 
 # TEAM
 
-    3. Operations
-    ops@example.com
+   1. Dev
+   dev@example.com 
+   2. DevOps 
+   devops@example.com
+   3. Operations
+   ops@example.com
 
 # THANKS
 
-    <name>
+    Thank you all for your support!
 
 # TECHNOLOGY COLOPHON
 
