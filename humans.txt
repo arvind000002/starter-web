@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    3. Operations
+    ops@example.com
 
 # THANKS
 
