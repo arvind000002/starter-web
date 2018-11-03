@@ -3,8 +3,10 @@
 
 # TEAM
 
-   Dev 
-   DevOps 
+   1. Dev
+   dev@example.com 
+   2. DevOps 
+   devops@example.com
 
 # THANKS
 
