@@ -8,4 +8,5 @@ Sample website with plenty of files for demos
 
 ## GIT Tutorials
 
-GIT Merge Vs GIT Rebase
+1. Auto Merge
+2. GIT Merge Vs GIT Rebase
